@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma (ankitsharma99)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma99&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma99" /> </p>
 
-- 🌱 I’m currently learning **NodeJS and ReactJS**
+- 🌱 I’m currently learning **Java, Spring Boot and Jenkins**
 
-- 💬 Ask me about **C/C++, Data Structures and Web development**
+- 💬 Ask me about **C/C++, Java, CI/CD and DSA**
 
 - 📫 How to reach me **sharmankit9593@gmail.com**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankit-sharma99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-sharma99" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/code_assassin4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_assassin4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vent99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vent99" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankitsharma99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vent99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
