@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot, ReactJS and AWS**
+- 🌱 I’m currently learning **DevOps, DB Internals and Design and analysis of Algorithms**
 
-- 💬 Ask me about **Java, C++, DSA, Backend Development**
+- 💬 Ask me about **Full Stack Development, DB Internals and DSA**
 
 - 📫 How to reach me **sharmankit9593@gmail.com**
 
@@ -21,8 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitsharma99&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharma99&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankitsharma99&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
