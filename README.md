@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sharmankit9593@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Y8tBIJhCyxlsPqNjyr5yhJO1neG71HEW/view?usp=share_link](https://drive.google.com/file/d/1TL9mKIv9nypyJJgeGMkF1paoYDEQQeap/view?usp=share_link)](https://drive.google.com/file/d/1XwMqNK5y2jFOzkd-ixk3glS-P7k2t6-k/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XwMqNK5y2jFOzkd-ixk3glS-P7k2t6-k/view?usp=drive_link)
 
 - ⚡ Fun fact **I code for a living**
 
