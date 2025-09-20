@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **DevOps, DB Internals and Design and analysis of Algorithms**
+- 🌱 I’m currently learning **gRPC, DB Internals and Event Bus Architecture**
 
-- 💬 Ask me about **Full Stack Development, DB Internals and DSA**
+- 💬 Ask me about **Software Development, System Design, and DSA**
 
-- 📫 How to reach me **sharmankit9593@gmail.com**
+- 📫 How to reach me **ankitsharma99.jobs@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XwMqNK5y2jFOzkd-ixk3glS-P7k2t6-k/view?usp=drive_link)
 
